@@ -19,7 +19,7 @@
 ## Установка
 
 ## 1. Клонируйте репозиторий:
-git clone https://github.com/Wonderwol/test_task_calculator.git
+git clone https://github.com/Wonderwol/test_task1_calculator.git
 cd python-calculator
 
 ## 2. Создайте и активируйте виртуальное окружение:
